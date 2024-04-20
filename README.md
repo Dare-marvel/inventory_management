@@ -1,5 +1,7 @@
 # [Sangrah Inventory Management System](https://rohit-sangrah.netlify.app/)
 
+pls view the site in Firefox as cookies are not set on other browsers
+
 Create config.env in server and put the below mentioned credentials
 ```
 PORT = 8000
