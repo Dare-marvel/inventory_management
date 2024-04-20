@@ -1,6 +1,6 @@
 # [Sangrah Inventory Management System](https://rohit-sangrah.netlify.app/)
 
-pls view the site in Firefox as cookies are not set on other browsers
+## Pls view the site in Firefox as setting cookies is part of a paid service in other browsers while hosting the site
 
 Create config.env in server and put the below mentioned credentials
 ```
